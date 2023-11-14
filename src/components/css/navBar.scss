@@ -1,0 +1,42 @@
+.bg-light {
+  background-color: red;
+  color: purple;
+}
+.nav-bar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-right: 50px;
+}
+
+/*todo do scss or something so color defined only once*/
+.w-nav-link {
+  /* color: #dac367; */
+  /* color: #8c7b31; */
+  color: #855716;
+  font-family: "Quicksand", sans-serif;
+  font-size: 18px;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 20px;
+  background-color: transparent;
+  webkit-transition: 0.2s color linear;
+  transition: 0.2s color linear;
+}
+
+/*!important will override the bootstrap and whatever else styles*/
+a:hover {
+  text-decoration: none !important;
+  color: #dac367 !important;
+
+  /* color: whitesmoke !important; */
+}
+
+.active {
+  color: #f9f2d3 !important;
+  /* color: #dac367 !important; */
+  /* font-style: bold; */
+  /* color: #684008 !important; */
+  /* color: #2b0b0d !important; */
+  /* font-display:  */
+}
