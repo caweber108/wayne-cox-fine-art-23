@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/caweber108.github.io/wayne-cox-fine-art-23/static/css/main.52e2e853.css",
+    "main.js": "/caweber108.github.io/wayne-cox-fine-art-23/static/js/main.421372eb.js",
+    "static/js/787.f2b9e53f.chunk.js": "/caweber108.github.io/wayne-cox-fine-art-23/static/js/787.f2b9e53f.chunk.js",
+    "index.html": "/caweber108.github.io/wayne-cox-fine-art-23/index.html",
+    "main.52e2e853.css.map": "/caweber108.github.io/wayne-cox-fine-art-23/static/css/main.52e2e853.css.map",
+    "main.421372eb.js.map": "/caweber108.github.io/wayne-cox-fine-art-23/static/js/main.421372eb.js.map",
+    "787.f2b9e53f.chunk.js.map": "/caweber108.github.io/wayne-cox-fine-art-23/static/js/787.f2b9e53f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52e2e853.css",
+    "static/js/main.421372eb.js"
+  ]
+}
